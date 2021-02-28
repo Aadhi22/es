@@ -4,7 +4,8 @@ body{
   font-size: 500%;
   color: red;
   text-align: center;
+}
 
-  margin-top: 20%;
-
+div{
+    padding-top: 20%;
 }
